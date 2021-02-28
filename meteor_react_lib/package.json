@@ -1,5 +1,5 @@
 {
-  "name": "simple_todos_react",
+  "name": "meteor_react_lib",
   "private": true,
   "scripts": {
     "start": "meteor run",
